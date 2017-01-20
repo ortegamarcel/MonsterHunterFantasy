@@ -7,7 +7,7 @@
 | Sektor 2                   | Teilweise|
 | Abbau von Erzen            | Ja       |
 | "Nachwachsende" Erze       | Ja       |
-| Enzyklop�die im Men�       | Ja       |
+| Enzyklopädie im Menü       | Ja       |
 | Weitere Item-Kategorien**  | Ja       |
 
 ### Items
@@ -20,19 +20,19 @@
 - Slime in Sektor 1 spawnt jetzt korrekt 
     - nicht mehr sofort nach dem Tod.
 
-### Men�
-- *Enzyklop�die* Button hinzugef�gt
-- *Spiel beenden* Button hinzugef�gt
+### Menü
+- *Enzyklopädie* Button hinzugefügt
+- *Spiel beenden* Button hinzugefügt
 
 ### Sonstiges
-- Spiel Info (Version und �) wird im Startbildschirm angezeigt
-- Das Anbauen von Kr�utern ergibt jetzt 2 Kr�uter (anstatt 1)
+- Spiel Info (Version und ©) wird im Startbildschirm angezeigt
+- Das Anbauen von Kräutern ergibt jetzt 2 Kräuter (anstatt 1)
 - Die Wachstumsdauer von Resourcen wurde angepasst:
-    - B�ume: 15min
-    - Kr�uter/Beeren (Garten): 20min
-    - Kr�uter/Beeren (Wildnis): *[nicht implementiert!]*
+    - Bäume: 15min
+    - Kräuter/Beeren (Garten): 20min
+    - Kräuter/Beeren (Wildnis): *[nicht implementiert!]*
     - Erze (Wildnis): 10min
-- Handaxt und Spitzhacke ben�tigen jetzt 2 Kupfer anstatt 1 Eisen
+- Handaxt und Spitzhacke benötigen jetzt 2 Kupfer anstatt 1 Eisen
 
 <hr>
 
@@ -43,7 +43,7 @@
 |:---------------------------|:--------:|
 | Tutorial Quests            | Ja       |
 | Monster-System***          | Ja       |
-| Nachwachsende B�ume        | Ja       |
+| Nachwachsende Bäume        | Ja       |
 
 
 ### Sonstiges
@@ -58,8 +58,8 @@
 |:---------------------------|:--------:|
 | Abbau von Erzen            |Teilweise |
 | Tutorial Quests            |Teilweise |
-| F�llen von B�umen          | Ja       |
-| Beeren und Kr�uter pflanzen| Ja       |
+| Fällen von Bäumen          | Ja       |
+| Beeren und Kräuter pflanzen| Ja       |
 | Werkzeuge                  | Ja       |
 | Rezepte/Crafting           | Ja       |
 | Spieleinstellungen         | Ja       |
