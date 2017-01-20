@@ -7,7 +7,7 @@
 | Sektor 2                   | Teilweise|
 | Abbau von Erzen            | Ja       |
 | "Nachwachsende" Erze       | Ja       |
-| Enzyklopädie im Menü       | Ja       |
+| Enzyklopï¿½die im Menï¿½       | Ja       |
 | Weitere Item-Kategorien**  | Ja       |
 
 ### Items
@@ -20,19 +20,19 @@
 - Slime in Sektor 1 spawnt jetzt korrekt 
     - nicht mehr sofort nach dem Tod.
 
-### Menü
-- *Enzyklopädie* Button hinzugefügt
-- *Spiel beenden* Button hinzugefügt
+### Menï¿½
+- *Enzyklopï¿½die* Button hinzugefï¿½gt
+- *Spiel beenden* Button hinzugefï¿½gt
 
 ### Sonstiges
-- Spiel Info (Version und ©) wird im Startbildschirm angezeigt
-- Das Anbauen von Kräutern ergibt jetzt 2 Kräuter (anstatt 1)
+- Spiel Info (Version und ï¿½) wird im Startbildschirm angezeigt
+- Das Anbauen von Krï¿½utern ergibt jetzt 2 Krï¿½uter (anstatt 1)
 - Die Wachstumsdauer von Resourcen wurde angepasst:
-    - Bäume: 15min
-    - Kräuter/Beeren (Garten): 20min
-    - Kräuter/Beeren (Wildnis): *[nicht implementiert!]*
+    - Bï¿½ume: 15min
+    - Krï¿½uter/Beeren (Garten): 20min
+    - Krï¿½uter/Beeren (Wildnis): *[nicht implementiert!]*
     - Erze (Wildnis): 10min
-- Handaxt und Spitzhacke benötigen jetzt 2 Kupfer anstatt 1 Eisen
+- Handaxt und Spitzhacke benï¿½tigen jetzt 2 Kupfer anstatt 1 Eisen
 
 <hr>
 
@@ -43,7 +43,7 @@
 |:---------------------------|:--------:|
 | Tutorial Quests            | Ja       |
 | Monster-System***          | Ja       |
-| Nachwachsende Bäume        | Ja       |
+| Nachwachsende Bï¿½ume        | Ja       |
 
 
 ### Sonstiges
@@ -58,8 +58,8 @@
 |:---------------------------|:--------:|
 | Abbau von Erzen            |Teilweise |
 | Tutorial Quests            |Teilweise |
-| Fällen von Bäumen          | Ja       |
-| Beeren und Kräuter pflanzen| Ja       |
+| Fï¿½llen von Bï¿½umen          | Ja       |
+| Beeren und Krï¿½uter pflanzen| Ja       |
 | Werkzeuge                  | Ja       |
 | Rezepte/Crafting           | Ja       |
 | Spieleinstellungen         | Ja       |
@@ -69,6 +69,6 @@
 
 
 <br /><hr>
-*in Sektoren finden
-**Metalle/Erze, Rezepte, Meterialien, Samen
-***rumlaufende Monster mit Loot und Respawn
+*in Sektoren finden<br/>
+**Metalle/Erze, Rezepte, Meterialien, Samen<br/>
+***rumlaufende Monster mit Loot und Respawn<br/>
