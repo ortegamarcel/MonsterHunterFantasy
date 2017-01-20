@@ -8,7 +8,7 @@
 | Abbau von Erzen            | Ja       |
 | "Nachwachsende" Erze       | Ja       |
 | Enzyklopädie im Menü       | Ja       |
-| Weitere Item-Kategorien**  | Ja       |
+| Weitere Item-Kategorien²   | Ja       |
 
 ### Items
 - neue Items:
@@ -42,7 +42,7 @@
 | Feature                    | Erledigt |
 |:---------------------------|:--------:|
 | Tutorial Quests            | Ja       |
-| Monster-System***          | Ja       |
+| Monster-System³            | Ja       |
 | Nachwachsende Bäume        | Ja       |
 
 
@@ -69,6 +69,5 @@
 
 
 <br /><hr>
-*in Sektoren finden<br/>
-**Metalle/Erze, Rezepte, Meterialien, Samen<br/>
-***rumlaufende Monster mit Loot und Respawn<br/>
+²Metalle/Erze, Rezepte, Meterialien, Samen<br/>
+³rumlaufende Monster mit Loot und Respawn<br/>
