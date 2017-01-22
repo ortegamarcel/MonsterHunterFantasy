@@ -1,6 +1,64 @@
 # Monster Hunter: Fantasy
 ## Aktuelle Features
 
+## Version 0.1.3 (Alpha)
+| Feature                    | Erledigt |
+|:---------------------------|:--------:|
+| Jägergilde                 | Nein     |
+
+
+### Balance-Änderungen
+- Items:
+    - *Umhang* gibt nur noch 2 statt 4 AGI und 0 MAT statt 1
+    - *Lederweste* gibt jetzt 4 DEF statt 5
+    - *Brigantine* gibt jetzt 8 DEF statt 15
+- Crafting:
+    - *Umhang* kostet jetzt 3 Seide
+        - vorher: 5 Seide
+    - *Lederweste* kostet jetzt 2 Leder
+        - vorher: 4 Leder, 2 Seide
+        - Benötigtes Crafting-Level von 0 auf 1 erhäht
+    - *Brigantine* kostet jetzt 1 Lederweste, 2 Kupferbarren
+        - vorher: 1 Lederweste, 2 Seide, 3 Eisenbarren
+
+### Items
+- neue Items (inkl. Rezepte):
+    - Allgemeine Rüstungen
+        - *Kettenhemd*
+        - *Machalithemd*
+        - *Karbalithemd*
+    - Leichte Rüstungen
+        - *Lederpanzer*
+        - *Kupferplatte*
+        - *Eisenplatte*
+        - *Machalitplatte*
+        - *Karbalitplatte*
+    - Kopfbedeckungen
+        - *Lederkappe*
+        - *Kupferhaarklemme*
+        - *Stirnreif*
+        - *Kupferhelm*
+        - *Schallerhelm*
+        - *Glücksreif*
+        - *Machalithelm*
+        - *Karbalithelm*
+
+### Bug-Fixes
+- Quest #5 gibt nicht mehr fälschlicherweise ein Item als Belohnung
+
+### Sonstiges
+- Händler für Rüstungs-Rezepte hinzugefügt
+- Händler für Schild-Rezepte hinzugefügt
+- Händler für Ketten-/Zubehör-/Helme-/Umhänge-Rezepte hinzugefügt
+- Kramladen-Händler verkauft nun alle Materialien, die man (noch) nicht farmen kann
+- Tutorial-Quests leicht angepasst
+- Quest #6 hinzugefügt
+- Man steigt nun schneller im Crafting-Level auf
+- *"Kochen"*-Eintrag in der Enzyklopädie hinzugefügt
+
+<hr>
+
+<br />
 ## Version 0.1.2 (Alpha)
 | Feature                    | Erledigt |
 |:---------------------------|:--------:|
